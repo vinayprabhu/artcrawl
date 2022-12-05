@@ -7,3 +7,5 @@ Documenting the nature &amp; depth of art-websites scraped in CommonCrawl
 
 
 ## LAION-400M
+
+![Histogram of scraped image counts](artwebsites.png?raw=true "Number of images scraped from art-websites in LAION-400M")
